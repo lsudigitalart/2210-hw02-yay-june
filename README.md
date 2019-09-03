@@ -1,4 +1,4 @@
-# Assignment 01
+# Assignment 02
 
 ## Readings
 Getting Started with p5.js: 3/Draw: Define and draw simple shapes.
